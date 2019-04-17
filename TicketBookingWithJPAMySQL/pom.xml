@@ -11,7 +11,7 @@
 	<groupId>com.infotech.book.ticket.app</groupId>
 	<artifactId>bookingmanagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TicketBookingManagementApp</name>
+	<name>ticketBookingWithJPAMySQL</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
