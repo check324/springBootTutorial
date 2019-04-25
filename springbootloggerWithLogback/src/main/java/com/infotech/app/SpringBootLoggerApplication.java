@@ -23,6 +23,7 @@ public class SpringBootLoggerApplication {
 
 	@RequestMapping("/")
 	public String wellcome(){
-		return "Hello world!";
+		throw new RuntimeException("Opps exception has occured");
+		//return "Hello world!";
 	}
 }
