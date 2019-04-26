@@ -6,9 +6,9 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @ComponentScan(basePackages = "com.infotech.controller")
-public class SpringBootWhiteLabelErrorMessageDemoApplication {
+public class SpringBootDefaultCustomErrorPageDemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootWhiteLabelErrorMessageDemoApplication.class, args);
+        SpringApplication.run(SpringBootDefaultCustomErrorPageDemoApplication.class, args);
     }
 }
